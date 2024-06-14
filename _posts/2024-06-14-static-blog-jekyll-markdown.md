@@ -8,6 +8,8 @@ tags:
     - Web
     - Personal
     - Jekyll
+image:
+  background: bg-cloud-computing.jpg
 ---
 
 > 重开kekebox，如何建站又是一个问题，相比于17年前，现在不论是技术架构以及hosting环境都发生了大变化。
@@ -42,6 +44,8 @@ jekyll框架还是比较轻量的，在github上fork了一位大神的版本，�
 
 ### 结语
 就这样，kekebox的博客在几个小时内就以全新的架构重现上线，所有的内容都通过github来存储，无需担心数据丢失的问题。唯一需要考虑的是github page在国内访问的稳定性的问题，目前通过移动宽带和联通手机流量都能访问，国外的访问速度还是要快不少。博客应该还是够了，如果之后要加其他功能就得再做研究了。
+
+sequenceDiagram
 
 
 
