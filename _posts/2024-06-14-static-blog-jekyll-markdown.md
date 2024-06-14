@@ -9,7 +9,7 @@ tags:
     - Personal
     - Jekyll
 image:
-  background: bg-cloud-computing.jpg
+  background: img/bg-cloud-computing.jpg
 ---
 
 > 重开kekebox，如何建站又是一个问题，相比于17年前，现在不论是技术架构以及hosting环境都发生了大变化。
