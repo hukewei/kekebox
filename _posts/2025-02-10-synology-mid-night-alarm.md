@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "群晖半夜报警风波"
-author:       "Kawai"
+author:       "Kewei"
 header-img:   img/synology-nas.png
 catalog:      true
 tags:
