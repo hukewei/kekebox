@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: kekebox318
+#weibo_username: kekebox318
 #zhihu_username: hukewei
 github_username: hukewei
 #twitter_username: elitoge
-facebook_username:  kewei.me
+#facebook_username:  kewei.me
 linkedin_username:  keweihu
 coffee_link:  6oE4k60LC0TJ7Is3cc
 
