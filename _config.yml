@@ -19,6 +19,7 @@ github_username: hukewei
 #twitter_username: elitoge
 facebook_username:  kewei.me
 #linkedin_username:  kewei-hu-70659b61
+coffee_link:  https://buy.kekebox.com/b/6oE4k60LC0TJ7Is3cc
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -69,8 +70,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+#ga_track_id:  # Format: UA-xxxxxx-xx
+#ga_domain: []
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -92,4 +93,5 @@ page-mathjax: false
 friends:
   [
     { title: "Archive - G0615 photo", href: "https://hukewei.github.io/kekebox-8th-anniv/" },
+    { title: "Buy me a coffee", href: "https://buy.kekebox.com/b/6oE4k60LC0TJ7Is3cc" },
   ]
