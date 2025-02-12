@@ -78,6 +78,16 @@
     </a>
   </li>
   {% endif %}
+  {% if site.flickr_username %}
+  <li>
+    <a target="_blank" href="https://www.flickr.com/people/{{ site.flickr_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
   {% if site.coffee_link %}
   <li>
     <a target="_blank" href="https://buy.kekebox.com/b/{{ site.coffee_link }}">
